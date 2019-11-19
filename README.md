@@ -1,0 +1,4 @@
+JAVA 1.8
+MYSQL  5.6
+TOMCAAT 7.0.32
+Nginx 1.9.5
